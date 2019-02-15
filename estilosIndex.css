@@ -45,11 +45,14 @@ h1{
     color: white;
 }
 
+.index_container {
+  position: relative;
+  float: left;
+  width: 100%;
+}
 
 
-
-/* 
+/*
     Created on : 14 feb 2019, 11:21:30
     Author     : Diego Cortazar
 */
-
