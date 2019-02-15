@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
+    background-image: url(img/webDevOpac.jpg);
 }
 
 h1{
@@ -53,7 +54,7 @@ h1{
     width: 700px;
     height: 500px;
     margin-left: 1.5%;
-    background-color: #FFFFFF;
+    background-color: rgba(0, 0, 0, 0);
   }
 
 
