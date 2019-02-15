@@ -93,9 +93,16 @@ h3{
     transform: translateY(4px);
 }
 
+#insideFrame{
+  display: inline-block;
+  width: 1200px;
+  height: 100%;
+  margin-left: 1.5%;
+  background-color: #FFFFFF;
+}
 
-/* 
+/*
     Created on : 14 feb 2019, 15:22:34
-    Author     : Diego Cortazar
+    Authors    : Diego Cortazar, Alexander Nicholls
+    Updated by : Alexander Nicholls
 */
-
